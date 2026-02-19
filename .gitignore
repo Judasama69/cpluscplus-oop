@@ -1,0 +1,19 @@
+# Visual Studio - Internal files and cache
+.vs
+*.suo
+*.user
+*.sln.docstates
+
+# Build Folders (where your .exe and .obj files go)
+Debug/
+Release/
+x64/
+x86/
+out/
+build/
+
+# Compiled Object files
+*.obj
+*.exe
+*.pdb
+*.ilk
